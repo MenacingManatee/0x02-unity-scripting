@@ -1,7 +1,8 @@
 # 0x02 Unity Scripting
 
 ## About / synopsis
-A maze game made to practice with game objects, prefabs, and scripting
+A maze game made to practice with game objects, prefabs, and scripting.
+
 Play it at https://menacingmanatee.github.io/0x02-unity-scripting/
 
 ## Objective
